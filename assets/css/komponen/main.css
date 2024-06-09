@@ -1,0 +1,20 @@
+body {
+    background: #f9f9f9;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* .roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+} */
+
+.bg-dark {
+  background-color: #1f2933 !important;
+}
